@@ -1,0 +1,2 @@
+cpanel.webhost.com subdomain domain.com username password
+cpanel2.webhost.com subdomain2 domain2.com username2 password2
